@@ -1,2 +1,3 @@
 # Module iauthorbook
 # RPC service class, partial path of RPC policy file
+com.iauthorbook.client.GreetingService, 896C0AF7642756F9145B45EBE0BBDBD9.gwt.rpc
