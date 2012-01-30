@@ -1,0 +1,2 @@
+serviceClass: com.iauthorbook.client.GreetingService
+path: 896C0AF7642756F9145B45EBE0BBDBD9.gwt.rpc
