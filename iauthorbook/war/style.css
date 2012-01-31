@@ -58,13 +58,13 @@ h4 a  {
 	width: 99px;
 }
 #header div.section span#button {
-	background: url(images/buttones.gif) no-repeat;
+	background: url(images/ipad.png) no-repeat;
 	display: block;
-    height: 82px;
+    height: 170px;
 	position: absolute;
     right: 0;
     top: 145px;
-    width: 85px;
+    width: 240px;
 }
 #header div.section div {
 	margin: 0 auto;
@@ -134,7 +134,7 @@ h4 a  {
 	color: #e9dbd0;
 }
 #header span#tagline {
-	background: url(images/step-by-step-guide.gif) no-repeat;
+	background: url(images/instruction.png) no-repeat;
 	display: block;
 	height: 154px;
 	margin: 25px auto 0;
